@@ -16,8 +16,8 @@ var bilal = {
   code: [Python, R],
   tools: [AWS, SAS, Jupyter Notebook],
   frameworks: [Plotly, Tensorflow, Scikit-Learn],
-  about: "I am a engineer and researcher who is passionate about learning, creating solutions, and leveraging technologies.\n
-          I have worked with machine learning, deep learning, artificial intelligence, and business analytics.\n
+  about: "I am an engineer and researcher who is passionate about learning, creating solutions, and leveraging technologies.\n
+          I have worked with machine learning, deep learning, artificial intelligence, and business analytics problems.\n
           I am currently exploring many horizons. :)"
 }
 ```
