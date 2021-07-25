@@ -1,5 +1,5 @@
 <h2> Hi, I'm Bilal Hungund! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Student at <a href="https://www.nmims.edu/">NMIMS University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Data Scientist at <a href="https://www.halliburton.com/">Halliburton</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: iamhungundji](https://img.shields.io/twitter/follow/iamhungundji?style=social)](https://twitter.com/iamhungundji)
@@ -14,7 +14,7 @@
 var bilal = {
   pronouns: "bilal" | "hungundji",
   code: [Python, R],
-  tools: [AWS, SAS, Jupyter Notebook],
+  tools: [AWS, Azure, Jupyter Notebook],
   frameworks: [Plotly, Tensorflow, Scikit-Learn],
   about: "I am an engineer and researcher who is passionate about learning, creating solutions, and leveraging technologies.\n
           I have worked with machine learning, deep learning, artificial intelligence, and business analytics problems.\n
